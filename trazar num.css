@@ -1,0 +1,27 @@
+
+body {
+    text-align: center;
+    align-items: center;
+    background: url(img\ fondo6.jpg);
+    background-size:cover;
+}
+
+
+.Siguiente{
+    background-color: #1dcb51;
+    border: 2px solid #1dcb51;
+    cursor:pointer; 
+    display: inline-block;
+    background-color: #12b154be;
+    padding: 15px 25px;
+    border-radius: 100px;
+    color: #fff;
+    font-size: medium;
+    text-decoration: none;
+    margin-top: 5%;
+    }
+
+.Siguiente:hover {
+    background-color: #1dcb51;
+    border:2px solid #35ef95;
+}
